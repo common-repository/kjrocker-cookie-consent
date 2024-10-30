@@ -1,0 +1,16 @@
+<wpml-config>
+  <admin-texts>
+    <key name="rocker_kjcookie">
+      <key name="barmsg"/>
+      <key name="blink"/>
+      <key name="bbtn"/>
+      <key name="blinkid"/>
+      <key name="close_link"/>
+      <key name="box_content"/>
+      <key name="box_htmlcontent"/>
+	  <key name="kj-disablecookie"/>
+	  <key name="kj-cookieenabled"/>
+	  <key name="kj-cookiedisabled"/>
+    </key>
+  </admin-texts>
+</wpml-config>
